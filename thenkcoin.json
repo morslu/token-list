@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "GCzpoQooje3Yg9iVwmGJURR59oZriZVJAwiVKuKDk5xf",
+  "symbol": "TNCO",
+  "name": "ThankCoin",
+  "decimals": 9,
+  "logoURI": "https://beige-secondary-echidna-902.mypinata.cloud/ipfs/bafybeiavdqra5brtaokttf7dj7tr34ielbyshhqjt4guzlf5ekb4jiqyaq",
+  "tags": ["utility-token"]
+}
